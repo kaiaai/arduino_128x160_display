@@ -8,3 +8,7 @@ If you are making one for yourself, please pay attention to the video - note the
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=o4xM7S_AgC8" target="_blank">
  <img src="http://img.youtube.com/vi/o4xM7S_AgC8/maxresdefault.jpg" alt="128x160 ST7735S 8-pin display module connected to ESP32" width="720" height="405" border="10" />
 </a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=5aJgYaU-0wA" target="_blank">
+ <img src="http://img.youtube.com/vi/5aJgYaU-0wA/maxresdefault.jpg" alt="128x160 ST7735S 8-pin display module connected to ESP32" width="720" height="405" border="10" />
+</a>
